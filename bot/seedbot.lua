@@ -290,6 +290,7 @@ function create_config( )
     "sticker2",
     "sudo",
     "support",
+    "supergp",
     "t2s",
     "tagall",
     "test",
@@ -302,26 +303,23 @@ function create_config( )
     "voice",
     "welcome1",
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {97715211},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[SpheroBot + Helper
-An advance Administration bot based on yagop/telegram Cli
-A Best Anti spam Open Sourced To
-https://github.com/3pehrdev/Sphero
-developed and founded
-By
-@MrBlackLife
-My chanell
-@SpheroCh
- thanks to:
-mobin
-mrjacki
---
---
-special thanks to
-blacklifeTM
-teleseedTM
+    about_text = [[
+Alominateam 
+
+             Botid:@Alomina
+
+             ——————————————————
+
+             SUDO:@Alominasudo
+             ——————————————————
+
+             Channel:@Alominateam
+             ——————————————————
+
+             Bot v1
 ]],
     help_text_realm = [[
 Realm Commands:
